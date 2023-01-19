@@ -1,5 +1,5 @@
 {
-  "name": "supertest",
+  "name": "@particle/supertest",
   "version": "2.0.1",
   "description": "SuperAgent driven library for testing HTTP servers",
   "main": "index.js",
